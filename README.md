@@ -13,7 +13,5 @@
 npm install
 npm start
 ```
-
-<img src="https://user-images.githubusercontent.com/25946305/146310613-6371fdf0-7107-4102-ab51-cbdc1adcb579.jpg" width="590" height="1136">
 ---
 <img src="https://user-images.githubusercontent.com/25946305/151231679-4fd72388-91ce-428d-85fc-a4ea661d344d.png" width="350" height="600">
